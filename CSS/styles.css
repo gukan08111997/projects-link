@@ -1,0 +1,16 @@
+.pro-body{
+  background-color: #5B8FB9;
+  line-height: 2.5rem;
+}
+.pro-title{
+  color:#301E67;
+  text-align: center;
+}
+.pro-text{
+  font-size: 1.5rem;
+}
+.link-text{
+  color:#301E67;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
